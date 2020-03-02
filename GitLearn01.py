@@ -33,7 +33,7 @@ git push -u origin master       # 文件上传到远端
 ## 同事z是怎样对组长的项目加工上传？
 # 在github上搜索项目---〉把组长的项目copy到本地：fork---〉找到文件--—〉 点击文件后面的图标j修改---〉commit ---〉点击pull request ---〉new pull request---〉 creat pull request ---〉 creat pull request ---〉等待组长审核
 # 组长操作
-刷新 ---〉 pull request---〉点开查看 ---〉merge pull request---〉 merge ---〉 commit
+# 刷新 ---〉 pull request---〉点开查看 ---〉merge pull request---〉 merge ---〉 commit
 
 
 
