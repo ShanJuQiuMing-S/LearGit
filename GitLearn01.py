@@ -12,6 +12,7 @@ ssh -T git@github.com          # 验证链接是否成功
 cd /Users/XXXXXXX/Desktop/     # 切换到桌面
 git clone git@github.com:ShanJuQiuMing-S/LearGit.git  # 克隆SSH，让通知git上传项目地址，SSH：git@github.com:ShanJuQiuMing-S/LearGit.git
 # 在桌面创建上传文件，初始设置的是.py,准备好上传的文件后可以进行以下操作。
+cd /Users/XXXXXXX/Desktop/目标文件夹 
 git add .                      # '.'代表所有文件，这行代码的意思是把所有的文件添加到仓库
 git commit -m 'first commit'   # 文件提交到仓库，其中‘ -m ’代表注释，引号里面是主食内容
 git push                       # 上传到github
